@@ -1,2 +1,2 @@
 # es6
-es6 demo
+es6 demo 
